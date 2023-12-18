@@ -3,9 +3,9 @@ $(document).ready(function () {
 	"use strict";
 
 	//Defines variables	
-	var arrow_up = '<i class="fa fa-angle-up" aria-hidden="true"></i>';
-	var arrow_down = '<i class="fa fa-angle-down" aria-hidden="true"></i>';
-	var arrow_span = '<span class="rs-menu-parent">' + arrow_down + '</span>';
+	var arrow_up = '';
+	var arrow_down = '';
+	var arrow_span = '';
 	var close_button = '<div class="sub-menu-close"><i class="fa fa-times" aria-hidden="true"></i>Close</div>';
 	
 	//Insert all arrow down span element

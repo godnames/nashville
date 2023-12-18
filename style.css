@@ -1179,7 +1179,7 @@ ul {
   line-height: 18px;
 }
 .rs-header .rs-menu-toggle {
-  color: #fff !important;
+  color: #000000 !important;
 }
 .rs-header .rs-menu-toggle:hover {
   color: #fe0000 !important;
