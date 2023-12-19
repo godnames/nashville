@@ -145,6 +145,9 @@
     }
     
 }
+.inner-page .rs-menu ul.nav-menu > li, .home3 .rs-menu ul.nav-menu > li, .home1 .rs-menu ul.nav-menu > li {
+     margin-right: 0; 
+}
 .rs-courses-details .sidebar-area .course-features-info{
     background: rgb(2 2 2 / 91%);
 }
