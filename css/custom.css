@@ -214,3 +214,11 @@
     box-shadow: 10px 10px 10px 10px #a5a3a3
     
 }
+
+.rs-footer .footer-top .about-widget p{
+    font-size: 15px;
+    line-height: 24px;
+    margin-bottom: 0;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+}
