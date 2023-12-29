@@ -229,3 +229,21 @@
     text-transform: uppercase;
     padding: 10px 20px;
 }
+.choose-desc .why-choose li:before{
+    order: none !important;
+    color: #ff3115;
+    content: "\f101";
+    font-family: fontawesome;
+    font-size: 14px !important;
+    font-size: 9px;
+    margin-right: 10px;
+    padding: 0;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    box-sizing: border-box;
+}
+.choose-desc .why-choose li{
+    position: relative;
+    padding-left: 20px;
+}
